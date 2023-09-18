@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malachi</h1>
 <h3 align="center">A full stack software engineer from Salt Lake City, UT</h3>
 
-- 🌱 I’m currently learning **Async/Await and MongoDB**
+- 🌱 I’m currently learning **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
