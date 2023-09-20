@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **malachipineda@hotmail.com**
 
-- ⚡ Fun fact **I've been Drunk on Pop-Punk since 2005 🤘**
+- ⚡ Fun fact **Love. It's what makes a Subaru, a Subaru ✨💙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
