@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A MERN stack Customer Relationship Management App**
 
-- 🌱 I’m currently learning **React to round out my MERN stack proficiency**
+- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **malachipinedadev@gmail.com**
+- 📫 How to reach me **malachipineda@hotmail.com**
 
 - ⚡ Fun fact **I've been Drunk on Pop-Punk since 2005 🤘**
 
