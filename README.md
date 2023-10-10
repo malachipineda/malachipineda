@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malachi</h1>
 <h3 align="center">A Full Stack Software Engineer in Salt Lake City, UT</h3>
 
-- 🔭 I’m currently working on **A MERN stack Task Tracking Card Game**
+- 🔭 I’m currently working on **A MERN stack CRM**
 
 - 🌱 I’m currently learning **React**
 
